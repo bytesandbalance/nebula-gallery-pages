@@ -40,7 +40,7 @@ const ChapterCard = ({ chapterNumber, title, description, imagePath }: ChapterCa
         
         {/* Chapter number badge */}
         <div className="absolute top-4 right-4 bg-primary/90 text-primary-foreground font-display font-bold px-4 py-2 rounded-lg glow-primary">
-          Ch. {chapterNumber}
+          fold. {chapterNumber}
         </div>
       </div>
       
