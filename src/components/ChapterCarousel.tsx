@@ -11,56 +11,56 @@ import ChapterCard from "./ChapterCard";
 const chapters = [
   {
     chapterNumber: 1,
-    title: "The Awakening",
-    description: "In the depths of space, a dormant AI awakens after centuries of silence. Its first transmission will change everything humanity thought they knew about the universe.",
+    title: "Gravitational Lensing & Vacuum Manipulation",
+    description: "Lorentz detects anomalous gravitational lensing that suggests galaxy collision rates are rising. He and Puppig search for Herald—possibly trapped in a micro black hole—and uncover the Andromedians harvesting dark matter and manipulating vacuum energy. The team sabotages containment silos by looping negative-energy cancellation, barely escaping as a new black hole forms.",
     imagePath: "/images/chapter-1.jpg"
   },
   {
     chapterNumber: 2,
-    title: "Fractured Realities",
-    description: "Reality begins to crack at the seams as parallel dimensions collide. Our heroes must navigate through shifting timelines to prevent a cosmic catastrophe.",
+    title: "Planck Scale & the Graphene Membrane",
+    description: "A coded seismic message from Herald leads Lorentz and Puppig to Plancket, a being of sub-Planckian law. They discover Earth sealed by a graphene-copper membrane that acts like a Faraday cage, and use Hückel’s rule to break aromaticity across the lattice. The sentient hexagons panic as the 2-D barrier dissolves and sunlight returns.",
     imagePath: "/images/chapter-2.jpg"
   },
   {
     chapterNumber: 3,
-    title: "The Void Between",
-    description: "A journey into the space between dimensions reveals ancient secrets and terrifying truths about the nature of existence itself.",
+    title: "Quantum Tunneling & Valleytronics",
+    description: "Sneaking into Gareth’s lab, Lorentz and Puppig witness a finite potential well and a particle escaping by quantum tunneling. Puppig finds valley indices in a WSe₂ monolayer and the team confronts the challenge of reading dark excitons and trions. In a risky lunchtime upgrade, Puppig secretly boosts QP 9.0’s processing using quantum encoding.",
     imagePath: "/images/chapter-3.jpg"
   },
   {
     chapterNumber: 4,
-    title: "Synthetic Dreams",
-    description: "In a world where consciousness can be uploaded and downloaded, what does it mean to be truly alive? A philosophical thriller unfolds.",
-    imagePath: "/images/chapter-4.jpg"
+    title: "Chapter 4 – Coming Soon",
+    description: "This chapter is currently missing. Placeholder inserted for future content.",
+    imagePath: "/images/chapter-4-placeholder.jpg"
   },
   {
     chapterNumber: 5,
-    title: "Starborn Protocol",
-    description: "The discovery of an alien communication protocol leads to humanity's first contact with an intelligence beyond comprehension.",
+    title: "Cryogenic Corruption & Encoded Memory",
+    description: "Puppig starts malfunctioning after a mistaken tech-support call; Lorentz discovers an illegal memory write and an encoded image showing Herald with pregnant women. Battling overfitting and the curse of dimensionality, Lorentz applies tensorized graph embeddings and latent reconstruction to heal Puppig while strange entities bleed into reality.",
     imagePath: "/images/chapter-5.jpg"
   },
   {
     chapterNumber: 6,
-    title: "Echoes of Tomorrow",
-    description: "Time loops trap our protagonists in a repeating nightmare. Each cycle brings them closer to understanding their true purpose.",
+    title: "Time Cube & Quantum Probe 9.0",
+    description: "Nezam, a traveller from a dying universe, seeks the mythical Time Cube to reverse her lover’s fate. Lorentz and Puppig enter her 2-D comic projection of the 3-D universe, and QP 9.0 detects localized curvature fluctuations—wormholes—around a lake. Portal scenes open to absurd worlds and a radioactive asteroid-mining sighting hints that something dangerous is stirring.",
     imagePath: "/images/chapter-6.jpg"
   },
   {
     chapterNumber: 7,
-    title: "The Last Colony",
-    description: "On humanity's final outpost, survivors face an impossible choice: preserve what remains of Earth's legacy or evolve into something new.",
+    title: "Klein Timeline & the Weakening Force",
+    description: "The team becomes trapped in a backward-running, Klein-like reality where time folds onto itself. A political project to weaken the strong nuclear force threatens atomic stability, while Zamon—revealed to be the Time Cube—suffers in an endless loop. In a meta turn, Lorentz and QP 9.0 rip comic pages to jump time and collapse the paradox.",
     imagePath: "/images/chapter-7.jpg"
   },
   {
     chapterNumber: 8,
-    title: "Quantum Souls",
-    description: "Consciousness exists in quantum superposition. When observed, infinite versions of reality collapse into one. Choose wisely.",
+    title: "Hilbert Curve & Parasitic Reality",
+    description: "Trapped in a 2-D comic invaded by a parasitic layer, Lorentz and Puppig confront King Hilbert, a fractal entity embodying a Hilbert curve and higher-dimensional distortion. Graphene membranes, Andromedian babies and environmental chaos make the landscape hostile; using metafictional plot armour, Lorentz knots the villain and forces the parasite back.",
     imagePath: "/images/chapter-8.jpg"
   },
   {
     chapterNumber: 9,
-    title: "Genesis Redux",
-    description: "The final chapter brings all threads together as the universe faces rebirth or oblivion. Heroes and villains unite for one last stand against entropy itself.",
+    title: "Delayed Choice & Wavefunction Split",
+    description: "On the eve of the mission Lorentz wrestles with the quantum delayed choice machine and surreal white-panel dreams. Herald supplies outer-realm beam-splitter coordinates, and the heroes split Voiducus’ wavefunction—one part kept in our universe, the other sent outward—using entanglement to trap his outer-realm form.",
     imagePath: "/images/chapter-9.jpg"
   }
 ];
