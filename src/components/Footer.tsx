@@ -31,7 +31,7 @@ const Footer = () => {
         {/* Info Section */}
         <div className="text-center space-y-2">
           <p className="text-sm text-muted-foreground">
-            © 2025 Cosmic Chronicles. All rights reserved.
+            © 2025 Manifold. All rights reserved.
           </p>
           <p className="text-xs text-muted-foreground/60">
             A sci-fi journey through space, time, and consciousness.
