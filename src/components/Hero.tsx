@@ -65,11 +65,11 @@ const Hero = () => {
           >
             <Button
               size="lg"
-              variant="ghost"
-              className="text-primary hover:text-primary/80 font-display text-lg px-8 py-6 transition-all duration-300"
+              variant="outline"
+              className="border-primary/50 text-primary hover:bg-primary/10 font-display text-lg px-8 py-6 transition-all duration-300 hover:scale-105"
             >
               <Coffee className="mr-2 h-5 w-5" />
-              Gift a Coffee
+              Gift a Coffee - €3.99
             </Button>
           </a>
 
