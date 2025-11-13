@@ -29,9 +29,9 @@ const chapters = [
   },
   {
     chapterNumber: 4,
-    title: "Chapter 4 – Coming Soon",
-    description: "This chapter is currently missing. Placeholder inserted for future content.",
-    imagePath: "/images/chapter-4-placeholder.jpg"
+    title: "The Intergalactic Aquatic Fair",
+    description: "At the first intergalactic aquatic fair, heroes from across the cosmos display their powers when a giant transparent creature attacks. Sono blinds Cav with light, Toofān rages, and chaos erupts. Lorentz and Puppig join the team to investigate the cause of the destruction. They uncover Rock Bottom Drilling Company’s secret operations beneath the ocean—machines disrupting the planet’s core and magnetic field. Using light, sound, and whirl dynamics, the heroes neutralize the threat and expose the company’s fraud.",
+    imagePath: "/images/chapter-4.jpg"
   },
   {
     chapterNumber: 5,
@@ -77,8 +77,8 @@ const ChapterCarousel = () => {
             Explore all 9 folds of this cosmic odyssey. Swipe to navigate through the story.
           </p>
         </div>
-        
-        <Carousel 
+
+        <Carousel
           opts={{
             align: "start",
             loop: true,
@@ -95,7 +95,7 @@ const ChapterCarousel = () => {
           <CarouselPrevious className="glass-card border-primary/30 text-primary hover:bg-primary/20 -left-4 md:-left-12" />
           <CarouselNext className="glass-card border-primary/30 text-primary hover:bg-primary/20 -right-4 md:-right-12" />
         </Carousel>
-        
+
         <div className="text-center">
           <p className="text-sm text-muted-foreground">
             Use arrow buttons or swipe to navigate • {chapters.length} folds available
